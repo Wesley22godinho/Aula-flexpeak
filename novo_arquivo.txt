@@ -4,3 +4,4 @@ teste_01
 teste__03
 teste_4
 teste05
+teste06
